@@ -63,7 +63,7 @@ int main()
 {
     //so it basically rewrite game assembly and create internal function hook (you can look at game memory with cheatEngine etc)
     // 
-    //mov[rdx + rcx * 8], 2FAF080 	//new car cost in hex
+    //mov[rdx + rcx * 8], 2FAF080 	//new car cost in hex   0x2DF802B-address
     //jmp gta5.exe + 15DC17E
     //
     //5 bytes we don't care about
@@ -102,6 +102,6 @@ int main()
     //WriteProcessMemory(processHandle, (void*)(dllBaseAddress + 0x905A5A), &line2, sizeof(long int), 0);//movss [rsi]<-xmm6
     std::cout << "Memory Patched...\n";
     std::cout << "If script didn't work (or game crashed) look for updated version github.com/hacksfor/gta5online\n";
-    Sleep(10000);
+    Sleep(10000);//you better to use sleep_for() i just don't care
 }
 
