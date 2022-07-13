@@ -89,7 +89,7 @@ int main()
 
     ReadProcessMemory(processHandle, (void*)(dllBaseAddress + 0x2686820), &var4, sizeof(int), 0);//get cost of vehicle
 
-    WriteProcessMemory(processHandle, (void*)(dllBaseAddress + 0x2DF802B), &var1, sizeof(long long int), 0);
+    WriteProcessMemory(processHandle, (void*)(dllBaseAddress + 0x2DF802B), &var1, sizeof(long long int), 0);//just patching memory to code i wrote
     WriteProcessMemory(processHandle, (void*)(dllBaseAddress + 0x2DF8033), &var2, sizeof(long long int), 0);
     WriteProcessMemory(processHandle, (void*)(dllBaseAddress + 0x2DF803B), &var3, sizeof(int), 0);
     WriteProcessMemory(processHandle, (void*)(dllBaseAddress + 0x2DF803F), &var4, sizeof(int), 0);
