@@ -5,7 +5,7 @@ donate with bitcoin: bc1qv3hz2pqpdemkgcjjmlzdkpnjway8tl0p6mvzll<br /><br />
 NoNameCheats is a free to use game hacking software<br />
 Check other free game hacks https://github.com/HacksFor?tab=repositories<br />
 <br /><br />Warning: hack probably wont work after major update so contact me if you need it to be updated
-<br /><br />Instruction: <br />1)take any car with cost 100,000+ that you able to sell
+<br /><br />Instruction: <br />1)take any car with cost $100,000+ that you able to sell
 <br />2)go to any "los santos customs"
 <br />3)check value for wich you can sell car
 <br />4)launch "GTA_V_MONE.exe", input that value and press enter
