@@ -68,7 +68,7 @@ int main()
     //
     //5 bytes we don't care about
     //
-    //mov rax, [GTA5.exe + 2686820] //code starts here
+    //mov rax, "var4"               //code starts here
     //cmp[rdx + rcx * 8], rax
     //je gta5.exe + 2DF802B  		//jmp to first line
     //mov rax, [rdx + rcx * 8]      //return rax to initial state, so game won't bug/crash
