@@ -12,4 +12,4 @@ Check other free game hacks https://github.com/HacksFor?tab=repositories<br />
 <br />5)(back to game) go back to car modification option (esc) and then back to sell (it shoud cost $99,999,999)
 <br />Also you probably will be kicked or the game will crash (or both). Just restart in that case
 <br /><br />If you scared that I put in some viruses you can build project yourself (Source.cpp)
-<br />Don't sure will that be fixed coz that bug in game for few years at least (didn't get banned for using it)
+<br />Don't sure will that be fixed coz that bug in game for few years at least. Didn't get banned for using it (check png file)
