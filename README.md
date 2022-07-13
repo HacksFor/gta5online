@@ -7,9 +7,9 @@ Check other free game hacks https://github.com/HacksFor?tab=repositories<br />
 <br /><br />Warning: hack probably wont work after major update so contact me if you need it to be updated
 <br /><br />Instruction: <br />1)take any car with cost $100,000+ that you able to sell
 <br />2)go to any "los santos customs"
-<br />3)check value for wich you can sell car
-<br />4)launch "GTA_V_MONE.exe", input that value and press enter
-<br />5)(back to game) go back to car modification option (esc) and then back to sell (it shoud cost $99,999,999)
+<br />3)go to "sell" option to see car cost
+<br />4)launch "GTA_V_MONE.exe"
+<br />5)(back to game) go back to car modification option (esc) and then back to "sell" (it shoud cost $99,999,999)
 <br />Also you probably will be kicked or the game will crash (or both). Just restart in that case
 <br /><br />If you scared that I put in some viruses you can build project yourself (Source.cpp)
 <br />Don't sure will that be fixed coz that bug in game for few years at least. Didn't get banned for using it (check png file)
