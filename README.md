@@ -9,5 +9,5 @@ Check other free game hacks https://github.com/HacksFor?tab=repositories<br />
 <br />2)go to any "los santos customs"
 <br />3)check value for wich you can sell car
 <br />4)launch "GTA_V_MONE.exe", input that value and press enter
-<br />5)(back to game)go back to car modification option (esc) and than back to sell (it shoud cost 99,999,999)
+<br />5)(back to game) go back to car modification option (esc) and than back to sell (it shoud cost 99,999,999)
 <br />Also you probably will be kicked or the game will crash (or both). Just restart in that case
